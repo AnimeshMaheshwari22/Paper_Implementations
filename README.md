@@ -1,6 +1,6 @@
 ### My Implementations of papers
 
-#### 1. TensorFlow implementation of "ImageNet Classification with Deep Convolutional Neural Networks". [The paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+#### 1. TensorFlow implementation of AlexNet("ImageNet Classification with Deep Convolutional Neural Networks"). [The paper](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 An overview of the implementation:
 - The [TensorFlow](https://www.tensorflow.org/) documentation has been extremely helpful.
 - Used the MNIST dataset for the task
