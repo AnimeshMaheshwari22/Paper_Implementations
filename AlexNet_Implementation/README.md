@@ -9,11 +9,12 @@ An overview of the implementation:
 Please do let me know if I have to correct this implementation in any aspect :)
 
 Result from TensorBoard <br/>
-Epoch accuracy: train vs validation <br/>
+Epoch accuracy: train vs validation with Batch normalization <br/>
 <img src="./epoch_accuracy_graph.svg">
-
+Epoch accuracy: train vs validation with Local Response Localization <br/>
+<img src="./result_with_LRN.JPG">
 Tasks to be done: <br/>
-- [ ] Comparision of batch normalization(currently used) with local response normalization.
+- [X] Comparision of batch normalization(currently used) with local response normalization.
 - [ ] Using different datasets to train the model and analyze the results.
 - [ ] Implementing early stopping.
 
